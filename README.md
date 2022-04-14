@@ -6,9 +6,8 @@
 
 # Coursera Certificate Validation Tool
 
-<div align="center">
-  [![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/akvrohitvarma/coursera-certificate-validator/raw/master/coursera-validator.exe)
-</div>
+[![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/akvrohitvarma/coursera-certificate-validator/raw/master/coursera-validator.exe)
+
 
 This software helps Individuals/Teachers to validate and verify coursera certificates
 and store the results in an excel sheet to make it easier to view file integrity.
