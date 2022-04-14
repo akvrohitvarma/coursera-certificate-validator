@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn-icons.flaticon.com/png/512/5145/premium/5145588.png" width="100"/>
+  <img src="https://cdn-icons.flaticon.com/png/512/5145/premium/5145588.png?token=exp=1649910483~hmac=ccc3fe9cdadc9c14db6ec537b972b0b8" width="100"/>
 </div>
 
 [![Boost Software License 1.0](https://img.shields.io/badge/LICENSE-BPL%201.0-orange)](https://www.boost.org/users/license.html)
