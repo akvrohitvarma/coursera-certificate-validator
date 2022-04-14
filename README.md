@@ -6,22 +6,8 @@
 
 # Coursera Certificate Validation Tool
 
-<div id="button" align="center">
-  <style>
-		button {
-			color: #ffffff;
-			background-color: #2d63c8;
-			font-size: 19px;
-			border: 1px solid #2d63c8;
-			padding: 15px 50px;
-			cursor: pointer
-		}
-		button:hover {
-			color: #2d63c8;
-			background-color: #ffffff;
-		}
-	</style>
-  <button type="button" name="myButton">Download</button>
+<div align="center">
+  [![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/akvrohitvarma/coursera-certificate-validator/raw/master/coursera-validator.exe)
 </div>
 
 This software helps Individuals/Teachers to validate and verify coursera certificates
